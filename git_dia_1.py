@@ -1,1 +1,3 @@
-print("olá git")
+print("Catálogo de séries Netflix:")
+print("Dark")
+print("Stranger Things")
